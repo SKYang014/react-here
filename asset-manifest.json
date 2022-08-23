@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-here/static/css/main.99d16f3d.css",
+    "main.js": "/react-here/static/js/main.37ba3e1d.js",
+    "static/media/vet.jpg": "/react-here/static/media/vet.79f56877b94c928f2254.jpg",
+    "static/media/sarah.JPG": "/react-here/static/media/sarah.19065f3d382672e2a32d.JPG",
+    "static/media/tbd.jpg": "/react-here/static/media/tbd.4f795a03635b1dc6c0eb.jpg",
+    "static/media/social.jpg": "/react-here/static/media/social.1507fcf7f87e539207d7.jpg",
+    "static/media/run.jpg": "/react-here/static/media/run.2bc52908eb5334d600d4.jpg",
+    "static/media/food.jpg": "/react-here/static/media/food.7b3e57089504df2e2ab5.jpg",
+    "static/media/puppy.jpg": "/react-here/static/media/puppy.9384fc2521f1d3d496f0.jpg",
+    "static/media/Sarah_Resume2022.pdf": "/react-here/static/media/Sarah_Resume2022.199315b9cb4adab30cbf.pdf",
+    "index.html": "/react-here/index.html",
+    "main.99d16f3d.css.map": "/react-here/static/css/main.99d16f3d.css.map",
+    "main.37ba3e1d.js.map": "/react-here/static/js/main.37ba3e1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d16f3d.css",
+    "static/js/main.37ba3e1d.js"
+  ]
+}
