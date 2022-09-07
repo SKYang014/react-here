@@ -1,6 +1,6 @@
 import vet from "./assets/vet.jpg"
 import puppy from "./assets/puppy.jpg"
-import tbd from "./assets/tbd.jpg"
+import pup from "./assets/pup.jpg"
 import run from "./assets/run.jpg"
 import food from "./assets/food.jpg"
 import social from "./assets/social.jpg"
@@ -22,10 +22,10 @@ export default [
     },
     {
         id: 3,
-        title: "group proj 3",
-        githubUrl: "tbd",
-        img: (tbd),
-        description: "tbd"
+        title: "Plenty of Pups",
+        githubUrl: "https://thawing-brook-13054.herokuapp.com/",
+        img: (pup),
+        description: "This application utilizes React, GraphQL, MONGODB, and more to allow users (dogs) to find their match"
     },
     {
         id: 4,
